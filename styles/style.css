@@ -66,6 +66,11 @@ p {
 	font-size: 3rem;
 	text-transform: uppercase;
 	color: white;
+
+}
+.brand img{
+	height:10%;
+	width:10%;
 }
 .brand h1 span {
 	color: crimson;
@@ -201,7 +206,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/hero-bg.png);
+	background-image: url("https://thumbs.dreamstime.com/b/preschool-children-play-speech-therapy-lesson-kindergarten-primary-school-preschool-children-speech-therapy-lesson-158352210.jpg");
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -431,8 +436,8 @@ p {
 	font-size: 2rem;
 }
 #about .col-left .about-img {
-	height: 100%;
-	width: 100%;
+	height: 90%;
+	width: 90%;
 	position: relative;
 	border: 10px solid white;
 }
@@ -614,10 +619,12 @@ p {
 		flex-direction: row;
 	}
 	#about .col-left {
-		width: 600px;
-		height: 400px;
+		width: 300px;
+		height: 200px;
 		padding-left: 60px;
+		margin-top: -30%;
 	}
+	
 	#about .about .col-left .about-img::after {
 		left: -45px;
 		top: 34px;
@@ -625,9 +632,11 @@ p {
 		width: 98%;
 		border: 10px solid crimson;
 	}
+	
 	#about .col-right {
 		text-align: left;
 		padding: 30px;
+		margin-top: -30%;
 	}
 	#about .col-right h1 {
 		text-align: left;
