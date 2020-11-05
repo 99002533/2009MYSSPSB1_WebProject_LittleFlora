@@ -22,6 +22,7 @@
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-center">Fill out your child's details to register</h5>
+                    <form id="myform" onsubmit="return validate()" action="index.html">
                       <div class="form-label-group">
                         <input type="text" id="inputcname" class="form-control" placeholder="Child Name" required autofocus>
                         <label for="inputcname">Name of the child</label>
@@ -67,8 +68,9 @@
                       </div>
                       <hr>
         
-                      <input type="submit" value="Submit" class="btn btn-lg btn-primary btn-block text-uppercase" type="submit" onsubmit="validate()"></input>                      
+                      <input type="submit" value="Submit" class="btn btn-lg btn-primary btn-block text-uppercase"></input>                      
                       <hr class="my-4">
+                    </form>
                       <button class="btn btn-lg btn-secondary btn-block text-uppercase" type="submit"><i class="fab fa-google mr-2"></i>Click here to check your application status</button>
                   </div>
                 </div>
