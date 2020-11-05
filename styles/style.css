@@ -69,8 +69,8 @@ p {
 
 }
 .brand img{
-	height:15%;
-	width:15%;
+	height:10%;
+	width:10%;
 }
 .brand h1 span {
 	color: crimson;
@@ -206,7 +206,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/hero-bg.png);
+	background-image: url("https://thumbs.dreamstime.com/b/preschool-children-play-speech-therapy-lesson-kindergarten-primary-school-preschool-children-speech-therapy-lesson-158352210.jpg");
 	background-size: cover;
 	background-position: top center;
 	position: relative;
