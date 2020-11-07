@@ -23,7 +23,7 @@ It uses many APIs to display information. It shows country specific new, weather
 
 |                        Main menu                     |                          News                         |
 | :--------------------------------------------------: | :---------------------------------------------------: |
-|  <img src="Screenshot/mainMenu.png" height="600">    |      <img src="Screenshot/news.png" height="600">     |
+|  <img src="Screenshot/Home.png" height="600">    |      <img src="Screenshot/news.png" height="600">     |
 
 |                       Weather                        |                        Meme                           |                         Movies                        |
 | :--------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
