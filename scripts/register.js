@@ -1,4 +1,4 @@
-function validata(){
+function validate(){
 	childname = document.myform.inputcname.value;
 	password = document.myform.pass.value;
     age = document.myform.age.value;
