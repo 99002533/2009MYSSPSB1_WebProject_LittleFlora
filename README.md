@@ -24,6 +24,10 @@ It uses many APIs to display information. It shows country specific new, weather
 | :--------------------------------------------------: | :---------------------------------------------------: |
 |  <img src="Screenshot/Home.png" height="600">        |      <img src="Screenshot/Events.png" height="600"    |
 
+|                          Events                       |
+| :---------------------------------------------------: |
+|      <img src="Screenshot/Events.png" height="600"    |
+
 |                       Programs                       |                        Register                       |
 | :--------------------------------------------------: | :---------------------------------------------------: |
 |   <img src="Screenshot/Programs.png" height="600">   |      <img src="Screenshot/Register.png" height="600"> |
