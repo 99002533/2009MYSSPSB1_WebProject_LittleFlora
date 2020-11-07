@@ -1,5 +1,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a2ce293b3c50472ea458a60970b90cd8)](https://www.codacy.com/gh/99002533/2009MYSSPSB1_WebProject_LittleFlora/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002533/2009MYSSPSB1_WebProject_LittleFlora&amp;utm_campaign=Badge_Grade)
 [![Build Status](https://dev.azure.com/pratheeksha2409/2009MYSSPSB1_WebProject_LittleFlora/_apis/build/status/99002533.2009MYSSPSB1_WebProject_LittleFlora?branchName=main)](https://dev.azure.com/pratheeksha2409/2009MYSSPSB1_WebProject_LittleFlora/_build/latest?definitionId=2&branchName=main)
+[![DeepSource](https://deepsource.io/gh/99002533/2009MYSSPSB1_WebProject_LittleFlora.svg/?label=resolved+issues&show_trend=true)](https://deepsource.io/gh/99002533/2009MYSSPSB1_WebProject_LittleFlora/?ref=repository-badge)
+[![DeepSource](https://deepsource.io/gh/99002533/2009MYSSPSB1_WebProject_LittleFlora.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/99002533/2009MYSSPSB1_WebProject_LittleFlora/?ref=repository-badge)
 # 2009MYSSPSB1_WebProject_LittleFlora
 A simple new web page for pre school created in Visual Studio Code using HTML & CSS .
 Features:-
