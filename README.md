@@ -22,11 +22,7 @@ It uses many APIs to display information. It shows country specific new, weather
 
 |                        Main menu                     |                          Events                       |
 | :--------------------------------------------------: | :---------------------------------------------------: |
-|  <img src="Screenshot/Home.png" height="600">        |      <img src="Screenshot/Events.png" height="600"    |
-
-|                          Events                       |
-| :---------------------------------------------------: |
-|      <img src="Screenshot/Events.png" height="400"    |
+|  <img src="Screenshot/Home.png" height="600">        |  <img src="Screenshot/Eventspage.png" height="600">   |
 
 |                       Programs                       |                        Register                       |
 | :--------------------------------------------------: | :---------------------------------------------------: |
